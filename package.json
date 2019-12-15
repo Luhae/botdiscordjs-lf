@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "LFTiger",
+  "version": "1.0.0",
+  "description": "Projet Discord LF",
+  "main": "main.js",
+  "repository": "https://github.com/Luhae/botdiscordjs-lf.git",
+  "author": "Luhae <Kevin-web@outlook.fr>",
+  "license": "MIT"
 }
